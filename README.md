@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HafsaNiaz
-- 👀 I’m interested in Data Science, Data Analytics, Machine Learning
-- 🌱 I’m currently learning SQL, Python
-- 💞️ I’m looking to collaborate on BI/ETL, ML/AI
+- 👀 I’m interested in Data Science, Data Analytics, Machine Learning, ETL/BI
+- 🌱 I’m currently learning SQL, Python, IBM Cognos
+- 💞️ I’m looking to collaborate on ETL/BI, ML/AI
 - 📫 How to reach me hafsa.niaz.7@gmail.com
 
 <!---
